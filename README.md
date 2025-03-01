@@ -1,0 +1,1 @@
+GATE (Graduate Aptitude Test in Engineering) is a nationwide examination for admission to postgraduate programs in engineering, technology, and science. It is organized by the IITs and IISc. This repository contains the question papers and answer keys for GATE 2025.
